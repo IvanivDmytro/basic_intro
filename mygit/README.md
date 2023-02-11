@@ -10,3 +10,5 @@ change file README
 add ./
 commit
 marge
+
+git log
